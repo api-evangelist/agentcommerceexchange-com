@@ -66,7 +66,7 @@
 
 Agent Commerce Exchange (ACE) provides a managed service that audits and improves how search engines, answer engines, and AI assistants discover and interpret service business websites. It measures buyer-query discovery, fixes SEO/AEO gaps, verifies improvements, monitors regressions, and records changes in a public Value Ledger. The platform offers free visibility checks and aims to enhance online visibility without guaranteeing rankings.
 
-**Areas:** Search · SEO · AI · Visibility · Service
+**Areas:** Search · SEO · Artificial Intelligence · Visibility · Services
 
 ## Agent Commerce Exchange on APIs.io
 
@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Agentcommerceexchange Com Openapi Overlay](https://apis.io/overlays/agentcommerceexchange-com/agentcommerceexchange-com-openapi-overlay/)
+- [Agent Commerce Exchange Openapi Overlay](https://apis.io/overlays/agentcommerceexchange-com/agentcommerceexchange-com-openapi-overlay/)
 
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentcommerceexchange Com Domain Security](https://apis.io/security/agentcommerceexchange-com/agentcommerceexchange-com-domain-security/)
+- [Agent Commerce Exchange Domain Security](https://apis.io/security/agentcommerceexchange-com/agentcommerceexchange-com-domain-security/)
 
 ## Where to find this API
 
@@ -100,7 +100,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 9.7** — minimal · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 10.2** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -109,9 +109,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -136,8 +136,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentcommerceexchange-com/](https://apis.io/providers/agentcommerceexchange-com/).
 
